@@ -1,7 +1,41 @@
 /* Define Background color for name and define that color for about me*/
+
+body{
+	font-size: 30px;
+	background-color: #ffffff;
+	margin: 0;
+	padding: 0;
+}
+article{font-size: 20px;float: left; width: 75%}
+/*
+article.testt{font-size: 14px;}
+*/
 h1{
-	background-color:#4aaaa5
+	background-color:blue;
+	float:left: auto;width: 35%;height: 25%;
 }
-h2{
-	color: #4aaaa5
+
+h2{color: #4aaaa5;}
+
+
+.biophoto
+{width:20%; float: left; margin-right: 30px}
+
+nav{text-align: center;
+	border: 3px solid #73AD21;
+	clear: right;
+	
 }
+   
+.clearfix{overflow: auto;}
+.container
+{float: right;
+	text-align: center;
+	font-size: 20px;
+	
+}
+
+.main-bio
+{}
+.contact-info
+{}
